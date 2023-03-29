@@ -16,4 +16,14 @@
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
     <img align="center" alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> 
-</div>
+</div> <br/>
+<br />
+Apaixonado pelo aprendizado, por ensinar e praticar a programação durante o meu dia a dia.
+
+<br />
+
+## Entre em contato comigo: 
+
+ [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](brenoleitepereira@gmail.com)
+ 
