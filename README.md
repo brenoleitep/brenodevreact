@@ -7,6 +7,8 @@
 ![brenodevreact GitHub stats](https://github-readme-stats.vercel.app/api?username=brenodevreact&show_icons=true&theme=radical)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenodevreact&exclude_repo=github-readme-stats,brenodevreact.github.io)](https://github.com/brenodevreact/github-readme-stats)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline-block"> <br/>
@@ -27,3 +29,5 @@ Apaixonado pelo aprendizado, por ensinar e praticar a programação durante o me
  [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](brenoleitepereira@gmail.com)
  
+
+
